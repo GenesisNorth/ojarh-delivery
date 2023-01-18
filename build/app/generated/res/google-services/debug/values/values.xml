@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">551750740416-snjm7p1jhqc07jb1cjg7m3099duas2f5.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">551750740416</string>
+    <string name="google_api_key" translatable="false">AIzaSyChuDkrq2-SdNEi2-iieK_BkFuImHZOld4</string>
+    <string name="google_app_id" translatable="false">1:551750740416:android:8ff1bb37cb44e547dc0025</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyChuDkrq2-SdNEi2-iieK_BkFuImHZOld4</string>
+    <string name="google_storage_bucket" translatable="false">ojarh-deliveryboy.appspot.com</string>
+    <string name="project_id" translatable="false">ojarh-deliveryboy</string>
+</resources>

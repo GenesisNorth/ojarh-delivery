@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/genesis/Downloads/eShop - Multi Vendor - v2.0.9/eShop - Multi Vendor Flutter - v2.0.9/DeliveryBoy Application 2.0.9/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.1.2"
+    buildFolder="/Users/genesis/Downloads/eShop - Multi Vendor - v2.0.9/eShop - Multi Vendor Flutter - v2.0.9/DeliveryBoy Application 2.0.9/build/app"
+    bootClassPath="/Users/genesis/Library/Android/sdk/platforms/android-33/android.jar:/Users/genesis/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

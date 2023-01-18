@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/genesis/Downloads/eShop - Multi Vendor - v2.0.9/eShop - Multi Vendor Flutter - v2.0.9/DeliveryBoy Application 2.0.9/build/path_provider_android/intermediates/merged_res/release/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/genesis/.gradle/caches/transforms-3/f6c5276c95a84049e5e05fbc4c03f3c5/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/genesis/Downloads/eShop - Multi Vendor - v2.0.9/eShop - Multi Vendor Flutter - v2.0.9/DeliveryBoy Application 2.0.9/build/path_provider_android/intermediates/merged_res/release/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/genesis/.gradle/caches/transforms-3/f6c5276c95a84049e5e05fbc4c03f3c5/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/genesis/Downloads/eShop - Multi Vendor - v2.0.9/eShop - Multi Vendor Flutter - v2.0.9/DeliveryBoy Application 2.0.9/build/path_provider_android/intermediates/merged_res/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/genesis/.gradle/caches/transforms-3/f6c5276c95a84049e5e05fbc4c03f3c5/transformed/core-1.6.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/genesis/Downloads/eShop - Multi Vendor - v2.0.9/eShop - Multi Vendor Flutter - v2.0.9/DeliveryBoy Application 2.0.9/build/path_provider_android/intermediates/merged_res/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/genesis/.gradle/caches/transforms-3/f6c5276c95a84049e5e05fbc4c03f3c5/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/genesis/Downloads/eShop - Multi Vendor - v2.0.9/eShop - Multi Vendor Flutter - v2.0.9/DeliveryBoy Application 2.0.9/build/path_provider_android/intermediates/merged_res/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/genesis/.gradle/caches/transforms-3/f6c5276c95a84049e5e05fbc4c03f3c5/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

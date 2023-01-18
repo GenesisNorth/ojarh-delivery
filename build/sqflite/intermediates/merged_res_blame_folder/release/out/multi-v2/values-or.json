@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/genesis/Downloads/eShop - Multi Vendor - v2.0.9/eShop - Multi Vendor Flutter - v2.0.9/DeliveryBoy Application 2.0.9/build/sqflite/intermediates/incremental/mergeReleaseResources/merged.dir/values-or/values-or.xml",
+            "map": [
+                {
+                    "source": "/Users/genesis/.gradle/caches/transforms-3/f6c5276c95a84049e5e05fbc4c03f3c5/transformed/core-1.6.0/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/genesis/Downloads/eShop - Multi Vendor - v2.0.9/eShop - Multi Vendor Flutter - v2.0.9/DeliveryBoy Application 2.0.9/build/sqflite/intermediates/merged_res/release/values-or/values-or.xml",
+            "map": [
+                {
+                    "source": "/Users/genesis/.gradle/caches/transforms-3/f6c5276c95a84049e5e05fbc4c03f3c5/transformed/core-1.6.0/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

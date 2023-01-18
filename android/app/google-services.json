@@ -1,0 +1,48 @@
+{
+    "project_info": {
+      "project_number": "551750740416",
+      "project_id": "ojarh-deliveryboy",
+      "storage_bucket": "ojarh-deliveryboy.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:551750740416:android:8ff1bb37cb44e547dc0025",
+          "android_client_info": {
+            "package_name": "com.retailshopping.ojarh.deliveryboy"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "551750740416-kf398afk5sufifa95boo6b0sb3r0irud.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.retailshopping.ojarh.deliveryboy",
+              "certificate_hash": "cf266aeb9140c0145463c6bc7f05698c3b2aeb76"
+            }
+          },
+          {
+            "client_id": "551750740416-snjm7p1jhqc07jb1cjg7m3099duas2f5.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyChuDkrq2-SdNEi2-iieK_BkFuImHZOld4"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "551750740416-snjm7p1jhqc07jb1cjg7m3099duas2f5.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
+  
